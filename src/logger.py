@@ -17,7 +17,7 @@ logging.basicConfig(
 )
 
 
-
-if __name__ == "__main__":
-    logging.info("Logging has started")
+# Uncomment to test the logger module
+# if __name__ == "__main__":
+#     logging.info("Logging has started")
 
